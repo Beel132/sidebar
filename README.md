@@ -6,6 +6,10 @@ I made a beautiful gradient sidebar
 
 ---
 
+it has a cool (`transform`) looking animation, starts from the top, 'till the bottom when you start or reload it
+
+---
+
 Made with:
 
 * HTML
